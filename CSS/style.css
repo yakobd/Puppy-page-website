@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.headerfooter {
+  background-color: #085070;
+  color: white;
+  font-weight: bold;
+}
+
+.header {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.image1 {
+  width: 100%;
+}
+
+.bannerimage {
+  margin-bottom: 85px;
+}
+
+.imagewraper {
+  display: flex;
+  width: 960px;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.secondimage {
+  width: 311px;
+  height: 310px;
+  background-color: #f04d65;
+  text-align: center;
+}
+
+.missingimage {
+  font-size: 50px;
+  margin: 20%;
+}
+
+.missingimage:hover {
+  color: teal;
+}
+
+.secondarea {
+  margin-top: 63px;
+  margin-bottom: 60px;
+}
+
+.morepupies {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.footer {
+  margin-top: 74px;
+  font-size: 70px;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 125px;
+}
